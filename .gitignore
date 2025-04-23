@@ -1,0 +1,3 @@
+# Ignore builds and json save tasks`
+*.json
+*.exe
